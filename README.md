@@ -48,8 +48,8 @@ Ahora vamos importar nuestro json a nuestra plantilla en Node-Red. Nuestro json 
 
 ## Resultados 
 - Node RED - Debug.
-<p align="center"><img src="./assets/debug.PNG" width =550px> </p>
-<p align="center"><img src="./assets/debug2.PNG" width =550px> </p>
+<p align="center"><img src="./assets/debug.PNG" width =350> </p>
+<p align="center"><img src="./assets/debug2.PNG" width =350> </p>
 
 - Se Agregaron nuevos valores en nuestra tabla thingData.
 <p align="center"><img src="./assets/bd2.PNG" width =550px> </p>
